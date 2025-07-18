@@ -1,0 +1,15 @@
+My to-do llist
+1.write an article
+2.code
+3.study books
+4.attend and classes on time
+5.visit aunt
+6.apply for remote job
+7.practise code
+/*echo "# Empty" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/priya302005/Empty.git
+git push -u origin main*/
